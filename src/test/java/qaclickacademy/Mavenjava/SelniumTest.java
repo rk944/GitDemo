@@ -10,6 +10,8 @@ public class SelniumTest {
 	{
 		 System.out.println("BrowserAutomation");
 
+		 System.out.println("Web automation");
+
 	}
 	@Test
 	public void element()
