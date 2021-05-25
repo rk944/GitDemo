@@ -11,6 +11,8 @@ public class SelniumTest {
 		 System.out.println("BrowserAutomation");
  
 
+		 System.out.println("Web automation");
+
 	}
 	@Test
 	public void element()
@@ -19,6 +21,12 @@ public class SelniumTest {
 
 	}
 	
+	@Test
+	public void elementsU1i()
+	{
+		 System.out.println("element ");
+
+	}
 	
 	}
 
