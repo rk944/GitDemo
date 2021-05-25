@@ -9,6 +9,7 @@ public class SelniumTest {
 	public void BrowserAutomation()
 	{
 		 System.out.println("BrowserAutomation");
+ 
 
 	}
 	@Test
